@@ -10,7 +10,5 @@ https://github.com/iffatAGheyas/transformer-experiments/wiki
 ![image](https://github.com/user-attachments/assets/acd56431-9b36-4064-9416-1d5a97e7a9ed)
 Note: This model trains on ~400 examples across 50 classes for only 5 epochs (CPU-only), resulting in limited accuracy. With more data, longer training, and GPU acceleration, the same attention-based approach can achieve strong performance on audio classification.
 
----:** This model trains on ~400 examples across 50 classes for only 5 epochs (CPU-only), resulting in limited accuracy. With more data, longer training, and GPU acceleration, the same attention-based approach can achieve strong performance on audio classification.
-
 ![image](https://github.com/user-attachments/assets/ad95e0fa-dc2c-4d89-bca0-fc277769f54c)
 
